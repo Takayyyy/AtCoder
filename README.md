@@ -1,0 +1,1 @@
+Repository for saving activity history.
